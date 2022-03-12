@@ -1,7 +1,9 @@
+import './styles/style.css';
+
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello World by SALAH</h1>
+      <h1>Hello World by SALAH- a</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis
         corporis dolorum veniam incidunt nulla porro debitis ullam quae omnis
